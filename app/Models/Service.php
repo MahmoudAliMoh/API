@@ -2,9 +2,9 @@
 
 namespace App\Models;
 
-use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Database\Eloquent\Model;
 
-class Service extends Authenticatable
+class Service extends Model
 {
 
     /**
@@ -12,5 +12,5 @@ class Service extends Authenticatable
      *
      * @var array
      */
-    protected $fillable = [];
+    protected $guarded = [];
 }

@@ -2,9 +2,9 @@
 
 namespace App\Models;
 
-use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Database\Eloquent\Model;
 
-class InsurancePayment extends Authenticatable
+class InsurancePayment extends Model
 {
 
     /**
@@ -12,5 +12,5 @@ class InsurancePayment extends Authenticatable
      *
      * @var array
      */
-    protected $fillable = [];
+    protected $guarded = [];
 }

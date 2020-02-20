@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27fc5451-dc37-4ea7-848b-067b8522536a" name="Default Changelist" comment="" />
+    <list default="true" id="27fc5451-dc37-4ea7-848b-067b8522536a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/FuelEntry.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/FuelEntry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/InsurancePayment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/InsurancePayment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Service.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -100,6 +126,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1XtwkZXdCZizCvxs136FBGSnzN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -108,15 +137,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Contracts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\API\app" />
       <recent name="D:\API\app\Http\Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\API\app\Contracts" />
+      <recent name="D:\Codes\API\app\Repositories" />
+      <recent name="D:\Codes\API\app\Traits" />
     </key>
   </component>
   <component name="RunManager">
@@ -137,7 +171,11 @@
       <updated>1581811435072</updated>
       <workItem from="1581811436370" duration="117000" />
       <workItem from="1581878848834" duration="157000" />
-      <workItem from="1581879141189" duration="1779000" />
+      <workItem from="1581879141189" duration="3017000" />
+      <workItem from="1582151195836" duration="1036000" />
+      <workItem from="1582152318385" duration="73000" />
+      <workItem from="1582152418780" duration="163000" />
+      <workItem from="1582152601914" duration="13887000" />
     </task>
     <servers />
   </component>
@@ -145,25 +183,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="523" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582166590941">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1582166590941" />
     <state x="491" y="0" key="#php56/Dockerfile" timestamp="1581879228356">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="491" y="0" key="#php56/Dockerfile/0.0.1536.834@0.0.1536.834" timestamp="1581879228356" />
-    <state x="604" y="342" key="NewPhpFileDialog" timestamp="1581881002587">
+    <state x="604" y="342" key="NewPhpFileDialog" timestamp="1582166553871">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="604" y="342" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1581881002587" />
-    <state x="277" y="60" key="SettingsEditor" timestamp="1581879009259">
+    <state x="604" y="342" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1582166553871" />
+    <state x="277" y="60" key="SettingsEditor" timestamp="1582151902800">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581879009259" />
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582151902800" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582162917608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1582162917608" />
     <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581878851320">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1581878851320" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1581880318553">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1582166937811">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1581880318553" />
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1582166937811" />
   </component>
 </project>
